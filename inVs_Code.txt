@@ -1,0 +1,8 @@
+extensions-->Django by Baptiste and Python is by default installed
+new terminal-->django-admin startproject hello
+Go to D drive--> django-->open django folder that has hello and txts -->open in vs code
+go to d drive-->django-->hello-->open in vs code
+in hello vs code :
+new terminal-->python manage.py runserver
+server is started: http://127.0.0.1:8000/
+type this server in google chrome

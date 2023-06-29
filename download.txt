@@ -1,0 +1,4 @@
+In local disk d--->create a folder named DJango 
+shift+right click--->open powershell
+write pip install django
+write pip install django --upgrade

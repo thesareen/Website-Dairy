@@ -1,0 +1,16 @@
+Jese JavaScript, React and Node ka basis HTML hai...vese hi Django ka basis Python hai
+Kaam dono ka same hai lekin Django Python ko backend mei use krke website develop
+krne mei help karta hai.
+Agar aapki website mei bahut sari JSON files use krna chahte ho to Django has this
+capability to automatically render(load and use) the response of JSON files.
+It basically helps to break your website into different apps.
+CRUD:
+Generally website se koi bhi database se information read ya write krne ke liye hume
+external connectors add krne padte hai jo aapke app se connect hoke info read ya write 
+krate hai...iss operation ke liye we use CRUD operations ie create read update and delete
+Django se websites banana easy hojata hai. 
+Agar aap soch rhe ho ki koi complex website aapko bnani hai to uss case mei we use 
+web framework.
+Agar aapko apni website mei Machine Learing and data science include krni hai to its
+preffered ki aap website Django se banao as its basis is python.
+__________________________________________________________________________________________

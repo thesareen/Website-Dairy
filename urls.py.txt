@@ -1,0 +1,16 @@
+URLS.PY:
+Sabse pehle client ke dwara generated request project ke urls.py mei ayegi... aur yaha se vo kisi
+app ke url.py mei bheji jayegi..
+mtlb aapki website ke suppose multiple apps bne hue hai to ek url.py aapki website ka hoga jo main
+project ka url.py hai and fir further har app ke apne urls.py honge.
+to pehle request urls.py (project) ke paass jayegi and vo further ye information apps ke url.py mei
+send krega.
+STEPS:
+1) New terminal--> python manage.py
+---> djnago ke andar--> 4th last point -->startapp--> this is used to start an app associated with
+the website.
+2) write python manage.py startapp app_name(home say).
+ab after running this command ek folder bana named home and now i can use this app. Home app and
+project app have different files . 
+AB 1) WE CREATED A PROJECT FOLDER AND THEN AN APP FOLDER
+Ab app folder mei to urls.py nhi hai	---> to agar file chahiye and vo nahi hai -->create the file
